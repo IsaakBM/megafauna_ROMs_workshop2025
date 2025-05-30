@@ -1,0 +1,19 @@
+::: top-banner
+:::
+
+# 📍 Location
+
+The workshop will take place at [CERFACS (Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique)](https://cerfacs.fr/en/home/) in Toulouse, France.
+
+Transportation from the airport, as well as between the hotel and CERFACS, will be coordinated and provided by Isaac and Lee.
+
+```{r, out.width = "100%", echo = FALSE}
+  knitr::include_graphics("hotel_to_cerfacs.png")
+```
+
+# 📞 **Contact**
+
+If you need to reach us during your travel or stay in Toulouse, please use the following numbers:
+
+-   **Isaac Brito-Morales** – mobile / WhatsApp: +1 (805) 350-6678\
+-   **Boris Dewitte** – mobile / WhatsApp: +33 675685211

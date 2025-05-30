@@ -1,19 +1,40 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "megafauna_ROMs_workshop2025"
+  title: "Climate and Ocean Modeling Workshop – SB5"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "🏠 Home"
+        file: 01_home.qmd
+      - text: "👥 Participants"
+        file: participants/01_participants.qmd
+      - text: "📍 Workshop Logistics"
+        file: logistics/01_logistics.qmd
+      - text: "📂 Materials"
+        file: resources/materials.qmd
+
+  sidebar:
+    style: docked
+    contents:
+      - section: "Daily Schedule"
+        contents:
+          - agenda/day1.qmd
+          - agenda/day2.qmd
+          - agenda/day3.qmd
+          - agenda/day4.qmd
+  page-footer:
+    left: "© 2025 Isaac Brito-Morales"
+    right: "Save the Blue 5"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: article
+    grid:
+      sidebar-width: 280px
+      body-width: 720px
+    lang: es

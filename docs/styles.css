@@ -1,0 +1,61 @@
+/* Top blue accent line */
+.top-banner {
+  background-color: #007BFF; /* Bootstrap primary blue */
+  height: 5px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+/* Add top padding to avoid overlap with banner */
+body {
+  padding-top: 10px;
+}
+
+/* Sidebar enhancements */
+.sidebar {
+  background-color: #f8f9fa !important; /* Light gray */
+  border-right: 1px solid #e0e0e0;
+}
+
+/* Slight shadow for section titles or cards */
+section {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 1.5em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1.5em;
+}
+
+/* Make navbar text slightly bolder */
+.navbar-title {
+  font-weight: 600;
+}
+
+/* Optional: add hover effect to navbar links */
+.navbar-nav .nav-link:hover {
+  background-color: #e6f0ff;
+  border-radius: 5px;
+}
+
+/* Quarto title block spacing improvement */
+.quarto-title-block {
+  margin-bottom: 2rem;
+}
+
+/* Optional: style for footer */
+.page-footer {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+/* 🔧 Fix: remove unused right margin + TOC column */
+.quarto-margin-sidebar {
+  display: none !important;
+}
+
+#quarto-margin {
+  display: none !important;
+}

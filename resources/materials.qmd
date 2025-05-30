@@ -1,0 +1,37 @@
+::: top-banner
+:::
+
+---
+title: ""
+format: html
+---
+
+::: text-center
+# 📂 Workshop Materials
+:::
+
+::: {.callout-note appearance="simple"}
+This section contains key documents and presentations shared during the workshop.
+:::
+
+## 📄 Documents
+
+-   📎 [Save the Blue Five (PDF)](none.pdf)
+
+------------------------------------------------------------------------
+
+## 🎤 Presentations
+
+-   🎞 [Boris Dewitte](none.pdf)
+-   🎞 [Ivonne Montes](none.pdf)
+-   🎞 [Alexander Forryan](none.pdf)
+-   🎞 [Samantha Stevenson](none.pdf)
+-   🎞 [Yulia Egorova](none.pdf)
+-   🎞 [Isaac Brito-Morales](none.pdf)
+-   🎞 [Lee Hannah](none.pdf)
+
+------------------------------------------------------------------------
+
+### 📥 Can’t Find Something?
+
+Participants may continue to submit presentations in this section. Please contact [**Isaac Brito-Morales**](mailto:ibrito@conservation.org).

@@ -1,0 +1,133 @@
+---
+title: "Day 2 - Workshop Kickoff"
+format: html
+---
+
+::: top-banner
+:::
+
+::: text-center
+*Tuesday, June 24, 2025*
+:::
+
+::: text-center
+*Facilitator: Lee Hannah & Boris Dewitte*
+:::
+
+# Session 1: Welcome & introduction (09.00 - 10.30)
+
+::: {.callout-note appearance="simple"}
+-   **Opening remarks:**\
+    Welcome from Lee Hannah, Isaac Brito-Morales, Boris Dewitte.
+
+-   **Workshop overview**\
+    Present the workshop objectives and agenda, outlining major themes, expected outcomes and how each day’s activities fit together.
+
+-   **Participant introductions**\
+    Roundtable for all attendees to share their roles and goals for the workshop.
+
+-   **Context (Isaac Brito-Morales and Lee Hannah)**\
+    Presentation of the project’s strategic aims to enhance regional cooperation and scientific capacity in support of marine spatial planning in the Southeast Pacific. Emphasis on the conservation of highly migratory marine megafauna, development of species distribution models, and integration of oceanographic data through collaboration between scientific and conservation institutions.
+
+-   **Q&A, open discussion**\
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (10.30 - 11.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 2: ROMs in the Southeast Pacific – Where We Are (11.00 - 13.00)
+
+::: {.callout-note appearance="simple"}
+-   **Focus**: Each presentation should aim to address the following key elements:
+
+    a)  General description of the modeling effort: Overview of the ROM project or system, including institutional context, timeline, and objectives.
+    b)  Technical characteristics of the model: Spatial and temporal resolution, model domain, boundary conditions, vertical layers, and nesting approach (if applicable).
+    c)  Key physical and/or biogeochemical variables: Variables currently modeled (e.g., SST, currents, salinity, oxygen, nutrients), and how these are validated or calibrated.
+    d)  Application and use cases: How the model has been applied to regional questions (e.g., climate variability, upwelling, regional predictions), including examples of published outputs or decision-support use.
+    e)  Data availability and access: Description of what outputs are available, in what format, and how other collaborators might access or build on this work.
+    f)  Current challenges and future needs: Gaps in coverage, resolution, or capacity; potential improvements, and needs for collaboration.
+
+-   **Presentations**: (20-30 minutes max)
+
+    1.  Boris Dewitte
+    2.  Ivonne Montes
+    3.  Alexander Forryan
+    4.  Samantha Stevenson (ENSO)
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Lunch break (13.00 - 14.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 2 (cont.): IPCC-Aligned Climate Projections and Scenarios (14:30 – 16:00)
+
+::: {.callout-note appearance="simple"}
+**Focus**: This session will explore how climate projections (especially those from IPCC-aligned CMIP6 models) can be integrated into regional ocean modeling efforts. The goal is to better understand what global climate models and scenarios are currently being used or downscaled, what timelines and Shared Socioeconomic Pathways (SSPs) are most relevant, and how these projections can realistically inform conservation-linked modeling.
+
+-   **Which CMIP6/IPCC models are being used or downscaled?**
+
+    -   Inventory of global and regional climate models currently in use
+    -   Which institutions are doing the downscaling, and at what spatial/temporal resolution?
+    -   Are there ensemble efforts underway to account for inter-model uncertainty?
+
+-   **Scenarios of interest**
+
+    -   Shared Socioeconomic Pathways (SSPs): SSP1-2.6, SSP2-4.5, SSP5-8.5
+    -   Historical baselines vs. near-future (e.g., 2030s), mid-century (2050s), end-century (2100)
+    -   Which timeframes are most useful for conservation planning in the region?
+
+-   **Discussion: How can we align ROMs with IPCC scenarios? What is realistic?**
+
+    -   Can ROMs be driven with CMIP6 outputs (e.g., boundary conditions)?
+    -   Are there gaps in variables (e.g., oxygen, pH) or regions not yet downscaled?
+    -   What are the computational and institutional constraints to doing this?
+    -   How can regional efforts be harmonized to avoid duplication and promote synergy?
+
+-   **Looking ahead: What do we know about CMIP7?**: *(Open Q&A / Informal Discussion)*
+
+    -   What updates or innovations are expected in CMIP7 (e.g., higher resolution, improved coupling of Earth system components, regional focus)?
+    -   How might these affect future regional ocean modeling efforts?
+    -   What opportunities could CMIP7 offer for better aligning conservation planning with emerging climate science?
+    -   Are there ways for the group or region to engage early or provide input?
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (16.00 - 16.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Wrap-up of Day 2 (16:30 – 16:45)
+
+::: {.callout-note appearance="simple"}
+-   **Summary** of key insights from the day (Isaac Brito-Morales).
+
+-   **Preview of Day 3**\
+    On Day 3, we will be discussing available data and exploring how it can actually be used—focusing on the variables required for species distribution modeling, how to account for climate modes such as ENSO, and how to represent key oceanographic features like fronts.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Group Dinner (Location: TBC) (17:30 – 19:30)*
+:::
+::::
+------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+---
+title: "Day 1 – Arrival"
+format: html
+---
+
+::: top-banner
+:::
+
+::: text-center
+# **Toulouse, France**
+
+### *Monday, June 23, 2025*
+:::
+
+::: {.callout-note appearance="simple"}
+-   **5:00 – 5:30pm**\
+    Transfer from the Airport to the Hotel\
+    *Transportation coordinated by Isaac and Lee*
+
+-   **6:00pm**\
+    Check-in at [Ibis Styles Toulouse Capitole](https://www.ibis-styles-capitole.com/en/)\
+    *Address: 20 Place du Capitole, Toulouse*
+
+-   **7:30 – 9:00pm**\
+    Welcome dinner at [Brasserie](https://brasserielesbeauxarts.fr/)\
+    *Address: 1 Quai de la Daurade, next to the Pont Neuf* *Note: Transportation coordinated by Lee and Isaac*
+:::

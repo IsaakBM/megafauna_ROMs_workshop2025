@@ -1,0 +1,28 @@
+::: top-banner
+:::
+
+# Workshop overview
+
+The objective of this workshop is to bring together regional experts in climate and ocean modeling to assess the current state of knowledge and modeling capacity in the Southeast Pacific. As part of the [Save the Blue Five](https://savethebluefive.net/) initiative, this meeting aims to identify what regional models and datasets are currently available, what key elements are missing, and how to strengthen the development and application of Regional Ocean Models (ROMs) to support marine conservation research.
+
+Participants will explore the state of the art in existing ROMs, focusing on their ability to represent key oceanographic features such as ocean fronts, upwelling systems, and other dynamic and ephemeral structures—critical for understanding the movements and habitats of highly migratory species vulnerable to climate change. The ultimate goal is to advance a regional ocean-climate modeling agenda that informs evidence-based marine spatial planning, conservation strategies, and climate adaptation in the Southeast Pacific.
+
+```{r, out.width = "100%", echo = FALSE}
+  knitr::include_graphics("images/cover.png")
+```
+
+## Reglas del taller y confidencialidad
+
+We hope that this workshop will provide a forum for open and transparent discussion. It will operate under [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule). If you are a social media user, please respect the sensitivities of the workshop discussions and exercise discretion in what you choose to post. If you are a presenter at the workshop and do not wish people to share your content on social media, please make this clear at the start of your presentation or on individual slides.
+
+::: {.callout-caution collapse="true" title="Chatham House rules"}
+*"When a meeting is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."*
+:::
+
+## Acknowledgements
+
+The [Moore Center for Science and Solutions](https://www.conservation.org/about/betty-and-gordon-moore-center-for-science-and-solutions) of [Conservation International](https://www.conservation.org/) would like to thank the German Government and the IKI program for their funding, as well as the consortium partners of the [Save the Blue Five](https://savethebluefive.net/) project (CPPS, GIZ, and MarViva) for their support in making this workshop possible.
+
+## About this site
+
+This website was created using Quarto. To learn more about Quarto, visit the visit the [official Quarto documentation](https://quarto.org/docs/books/).

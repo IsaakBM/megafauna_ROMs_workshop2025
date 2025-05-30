@@ -1,0 +1,136 @@
+---
+title: "Day 3 – Data and Models"
+format: html
+---
+
+::: top-banner
+:::
+
+::: text-center
+*Wednesday, June 25, 2025*
+:::
+
+::: text-center
+*Facilitator: Isaac Brito-Morales & Boris Dewitte*
+:::
+
+# Session 3: Variables of Interest for Conservation-Linked Modeling (09:00 – 10:15)
+
+::: {.callout-note appearance="simple"}
+-   **Focus:**: This session will open with short presentations from key ROMs users to highlight how regional ocean models are currently being applied in conservation-relevant contexts—ranging from species distribution modeling (SDMs) to digital twin frameworks and climate impact assessments. These case studies will help us evaluate how ROM outputs are being used (or could be used) to inform megafauna modeling and planning efforts.
+
+Building on these examples and our previous discussions on data availability, we will then turn to the key environmental and climate variables needed to model species distributions and support marine spatial planning. We will review which variables are most ecologically relevant, how to incorporate climate modes like ENSO into models, and how to represent dynamic oceanographic features such as thermal and dynamical fronts. The discussion will also help distinguish which variables are feasible to integrate now, and which may require phased inclusion as data access and modeling capacity improve.
+
+-   **Presentations**: (15 minutes max)
+
+    1.  Yulia Egorova – AquaX models and Migramar working group
+    2.  Isaac Brito-Morales – Save the Blue 5: climate-change assessment
+    3.  Lee Hannah – Digital twins and ROMs in conservation
+    4.  Alex Forryan / Cesar Peñaherrera – Planned applications of ROMs in upcoming Migramar efforts
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (10.15 - 10.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+# Session 3 (cont.): Variables of Interest for Conservation-Linked Modeling (10:30 – 12:30)
+
+-   **Review of key variables needed for modeling megafauna distributions and informing marine spatial planning**
+
+    -   What are the core environmental drivers of species occurrence and movement?
+    -   How do different species groups (cetaceans, turtles, sharks/rays) respond to different variables?
+
+-   **Core physical and biogeochemical variables for SDMs**
+
+    -   Temperature (surface and depth-specific), salinity, dissolved oxygen
+    -   Currents (direction and strength at different depths), mixed layer depth
+    -   Nutrients (nitrate, phosphate), pH, chlorophyll-a, net primary productivity
+    -   Bathymetry, slope, distance to coast, eddy kinetic energy
+    -   Oceanographic features (e.g., upwelling zones, seamounts, thermocline depth)
+
+-   **Climate modes of variability (e.g., ENSO)**
+
+    -   How do large-scale climate patterns influence megafauna distributions?
+    -   Options for representation: indices (e.g., Niño 3.4), anomalies, phase states
+    -   How do we integrate these into models (e.g., as covariates, temporal strata)?
+
+-   **Ocean fronts and dynamic features**
+
+    -   What methods or datasets are currently being used to model thermal/dynamical fronts?
+    -   Can we incorporate front metrics (e.g., SST gradients, FSLE)?
+    -   Temporal variability: how do fronts shift seasonally or with climate anomalies?
+
+-   **Open discussion:** Which variables are feasible to include now vs. in future phases?
+
+    -   Based on current data access and modeling capacity
+    -   Trade-offs between variable resolution, frequency, and model performance
+    -   What proxy variables or gap-filling strategies can be used in the interim?
+    -   Can we build modular models that allow phased integration as data improves?
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Lunch break (12.30 - 13.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+# Session 4: Data Availability and Regional Contributions (13:00- 15:00)
+
+-   **Focus:**: This session will give us a clearer picture of what core datasets (physical, biogeochemical, and climate) are already in use across the region, and where key gaps or overlaps may exist. The goal is not just to inventory what’s available, but to identify opportunities for data sharing and regional alignment that can directly inform our modeling work in the following sessions.
+
+-   **What physical, biogeochemical, and climate datasets are being used or generated?**
+
+    -   Identify ongoing efforts and data streams relevant to regional ocean modeling and conservation.
+
+-   **Availability of core variables:**
+
+    -   **Physical:** temperature, salinity, currents (surface and subsurface), sea level, wind speed/direction, bathymetry.
+    -   **Biogeochemical:** oxygen, nutrients (nitrate, phosphate, silicate), pH, chlorophyll-a, primary productivity, carbon fluxes (DIC, POC).
+    -   **Climatology:** sea surface temperature anomalies, heat content, upwelling indices, precipitation, air-sea fluxes.
+
+-   **Open discussion:** What’s missing and what could be accessed through collaboration?
+
+    -   Are there regional or national datasets that aren’t widely shared yet?
+    -   Can we leverage remote sensing (e.g., Sentinel, MODIS) or global reanalyses (e.g., GLORYS, ECCO, CMEMS)?
+    -   What downscaled or high-resolution products exist for key subregions?
+    -   Which institutions or partners could provide complementary datasets?
+    -   Are there long-term time series we can tap into for validation or hindcasting?
+:::
+
+------------------------------------------------------------------------
+
+# Coffee break & Wrap-up of Day 2 (15:00 – 15:15)
+
+::: {.callout-note appearance="simple"}
+-   **Summary** of key insights from the day (Isaac Brito-Morales)
+-   **Preview of Day 4**
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+-   **16:00 – 18:00**: Outdoor networking activity
+-   **Description**: An outdoor activity designed to encourage informal exchange, strengthen connections among participants, and enjoy the surroundings of the area. The proposed activity may include a guided walk or visit to a nearby point of interest. Final details will be confirmed based on logistics.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Group Dinner (Location: TBC) (18:00 – 20:00)*
+:::
+::::
+
+------------------------------------------------------------------------

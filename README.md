@@ -11,9 +11,9 @@ This repository contains materials from the **International Workshop on Climate 
 ## 📂 Contents
 
 -   [Quarto-based](https://quarto.org/) workshop website
--   Daily Schedule and Supporting Resources
--   Scientific Presentations and Workshop Materials
--   Confirmed Participants and Workshop Logistics
+-   Daily schedule and resources
+-   Scientific presentations and workshop materials
+-   Confirmed participants and workshop logistics
 
 ## 🌐 Workshop Website
 

@@ -1,0 +1,106 @@
+[
+  {
+    "objectID": "logistics/01_logistics.html",
+    "href": "logistics/01_logistics.html",
+    "title": "📍 Location",
+    "section": "",
+    "text": "📍 Location\nThe workshop will take place at CERFACS (Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique) in Toulouse, France.\nTransportation from the airport, as well as between the hotel and CERFACS, will be coordinated and provided by Isaac and Lee.\n\n\n\n\n\n\n\n\n\n\n\n📞 Contact\nIf you need to reach us during your travel or stay in Toulouse, please use the following numbers:\n\nIsaac Brito-Morales – mobile / WhatsApp: +1 (805) 350-6678\n\nBoris Dewitte – mobile / WhatsApp: +33 675685211"
+  },
+  {
+    "objectID": "agenda/day1.html",
+    "href": "agenda/day1.html",
+    "title": "Day 1 – Arrival",
+    "section": "",
+    "text": "Toulouse, France\n\nMonday, June 23, 2025\n\n\n\n\n\n\n\n\n\n5:00 – 5:30pm\nTransfer from the Airport to the Hotel\nTransportation coordinated by Isaac and Lee\n6:00pm\nCheck-in at Ibis Styles Toulouse Capitole\nAddress: 20 Place du Capitole, Toulouse\n7:30 – 9:00pm\nWelcome dinner at Brasserie\nAddress: 1 Quai de la Daurade, next to the Pont Neuf Note: Transportation coordinated by Lee and Isaac",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Schedule",
+      "Day 1 – Arrival"
+    ]
+  },
+  {
+    "objectID": "agenda/day2.html",
+    "href": "agenda/day2.html",
+    "title": "Day 2 - Workshop Kickoff",
+    "section": "",
+    "text": "Tuesday, June 24, 2025\n\n\nFacilitator: Lee Hannah & Boris Dewitte\n\n\nSession 1: Welcome & introduction (09.00 - 10.30)\n\n\n\n\n\n\n\nOpening remarks:\nWelcome from Lee Hannah, Isaac Brito-Morales, Boris Dewitte.\nWorkshop overview\nPresent the workshop objectives and agenda, outlining major themes, expected outcomes and how each day’s activities fit together.\nParticipant introductions\nRoundtable for all attendees to share their roles and goals for the workshop.\nContext (Isaac Brito-Morales and Lee Hannah)\nPresentation of the project’s strategic aims to enhance regional cooperation and scientific capacity in support of marine spatial planning in the Southeast Pacific. Emphasis on the conservation of highly migratory marine megafauna, development of species distribution models, and integration of oceanographic data through collaboration between scientific and conservation institutions.\nQ&A, open discussion\n\n\n\n\n\n\n\n\nCoffee break (10.30 - 11.00)\n\n\n\n\n\nSession 2: ROMs in the Southeast Pacific – Where We Are (11.00 - 13.00)\n\n\n\n\n\n\n\nFocus: Each presentation should aim to address the following key elements:\n\nGeneral description of the modeling effort: Overview of the ROM project or system, including institutional context, timeline, and objectives.\nTechnical characteristics of the model: Spatial and temporal resolution, model domain, boundary conditions, vertical layers, and nesting approach (if applicable).\nKey physical and/or biogeochemical variables: Variables currently modeled (e.g., SST, currents, salinity, oxygen, nutrients), and how these are validated or calibrated.\nApplication and use cases: How the model has been applied to regional questions (e.g., climate variability, upwelling, regional predictions), including examples of published outputs or decision-support use.\nData availability and access: Description of what outputs are available, in what format, and how other collaborators might access or build on this work.\nCurrent challenges and future needs: Gaps in coverage, resolution, or capacity; potential improvements, and needs for collaboration.\n\nPresentations: (20-30 minutes max)\n\nBoris Dewitte\nIvonne Montes\nAlexander Forryan\nSamantha Stevenson (ENSO)\n\n\n\n\n\n\n\n\nLunch break (13.00 - 14.30)\n\n\n\n\n\nSession 2 (cont.): IPCC-Aligned Climate Projections and Scenarios (14:30 – 16:00)\n\n\n\n\n\n\nFocus: This session will explore how climate projections (especially those from IPCC-aligned CMIP6 models) can be integrated into regional ocean modeling efforts. The goal is to better understand what global climate models and scenarios are currently being used or downscaled, what timelines and Shared Socioeconomic Pathways (SSPs) are most relevant, and how these projections can realistically inform conservation-linked modeling.\n\nWhich CMIP6/IPCC models are being used or downscaled?\n\nInventory of global and regional climate models currently in use\nWhich institutions are doing the downscaling, and at what spatial/temporal resolution?\nAre there ensemble efforts underway to account for inter-model uncertainty?\n\nScenarios of interest\n\nShared Socioeconomic Pathways (SSPs): SSP1-2.6, SSP2-4.5, SSP5-8.5\nHistorical baselines vs. near-future (e.g., 2030s), mid-century (2050s), end-century (2100)\nWhich timeframes are most useful for conservation planning in the region?\n\nDiscussion: How can we align ROMs with IPCC scenarios? What is realistic?\n\nCan ROMs be driven with CMIP6 outputs (e.g., boundary conditions)?\nAre there gaps in variables (e.g., oxygen, pH) or regions not yet downscaled?\nWhat are the computational and institutional constraints to doing this?\nHow can regional efforts be harmonized to avoid duplication and promote synergy?\n\nLooking ahead: What do we know about CMIP7?: (Open Q&A / Informal Discussion)\n\nWhat updates or innovations are expected in CMIP7 (e.g., higher resolution, improved coupling of Earth system components, regional focus)?\nHow might these affect future regional ocean modeling efforts?\nWhat opportunities could CMIP7 offer for better aligning conservation planning with emerging climate science?\nAre there ways for the group or region to engage early or provide input?\n\n\n\n\n\n\n\n\nCoffee break (16.00 - 16.30)\n\n\n\n\n\nWrap-up of Day 2 (16:30 – 16:45)\n\n\n\n\n\n\n\nSummary of key insights from the day (Isaac Brito-Morales).\nPreview of Day 3\nOn Day 3, we will be discussing available data and exploring how it can actually be used—focusing on the variables required for species distribution modeling, how to account for climate modes such as ENSO, and how to represent key oceanographic features like fronts.\n\n\n\n\n\n\n\nGroup Dinner (Location: TBC) (17:30 – 19:30)",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Schedule",
+      "Day 2 - Workshop Kickoff"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Climate and Ocean Modeling Workshop – SB5",
+    "section": "",
+    "text": "International Workshop on Climate and Ocean Modeling\n\n\nApplications of regional ocean models for marine megafauna conservation in the Southeast Pacific"
+  },
+  {
+    "objectID": "participants/01_participants.html",
+    "href": "participants/01_participants.html",
+    "title": "👥 Participants",
+    "section": "",
+    "text": "👥 Participants\nBelow is the list of confirmed participants for the workshop:\n\n\n\n\n\n\n\nName\nAfiliaton\n\n\n\n\nBoris Dewitte\nCEAZA\n\n\nIvonne Montes\nInstituto Geofísico del Perú\n\n\nSamantha Stevenson\nUniversity of California, Santa Barbara\n\n\nAlexander Forryan\nUniversity of Southampton\n\n\nYulia Egorova\nUniversity of Miami\n\n\nLee Hannah\nConservation International & University of California, Santa Barbara\n\n\nIsaac Brito-Morales\nConservation International & University of California, Santa Barbara"
+  },
+  {
+    "objectID": "resources/materials.html#documents",
+    "href": "resources/materials.html#documents",
+    "title": "📂 Workshop Materials",
+    "section": "📄 Documents",
+    "text": "📄 Documents\n\n📎 Save the Blue Five (PDF)"
+  },
+  {
+    "objectID": "resources/materials.html#presentations",
+    "href": "resources/materials.html#presentations",
+    "title": "📂 Workshop Materials",
+    "section": "🎤 Presentations",
+    "text": "🎤 Presentations\n\n🎞 Boris Dewitte\n🎞 Ivonne Montes\n🎞 Alexander Forryan\n🎞 Samantha Stevenson\n🎞 Yulia Egorova\n🎞 Isaac Brito-Morales\n🎞 Lee Hannah\n\n\n\n📥 Can’t Find Something?\nParticipants may continue to submit presentations in this section. Please contact Isaac Brito-Morales."
+  },
+  {
+    "objectID": "agenda/day4.html",
+    "href": "agenda/day4.html",
+    "title": "Day 4 – Integration and Forward Planning",
+    "section": "",
+    "text": "Thursday, June 26, 2025\n\n\nFacilitator: Isaac Brito-Morales & Boris Dewitte\n\n\nSession 5: Integration and Recommendations (09:15 – 10:30)\n\n\n\n\n\n\n\nFocus: This final morning session is designed to bring everything together. After identifying key datasets, variables, and modeling frameworks, we will now turn to integration — how do we translate all of this into actionable outputs for conservation? The session will emphasize cross-cutting recommendations, from setting regional modeling priorities to strengthening collaboration, data sharing, and capacity building. The goal is to outline concrete, forward-looking steps that can guide next-phase efforts across the region and global.\nCross-cutting discussion: How do we move from ROMs to applied outputs for conservation?\n\nHow do we ensure model outputs are usable and relevant to conservation practitioners?\nWhat spatial and temporal scales are most appropriate for decision-making?\nCan we identify common workflows or templates to support future applications?\n\nRecommendations for regional modeling priorities\n\nWhich regions, variables, or species groups require immediate attention?\nHow do we balance near-term needs with long-term modeling goals?\nWhere do we need higher resolution or ensemble model efforts?\n\nRecommendations for collaborations and data sharing\n\nWhich institutions or networks should be engaged or reconnected?\nAre there existing platforms for sharing datasets and code?\n\nRecommendations for capacity building and training needs\n\nWhat skill gaps exist (e.g., ROMs, SDMs, climate scenarios, coding)?\nAre there opportunities for joint training programs, mentoring, or knowledge exchange?\nWhat kind of support is needecd to scale up regional capacity?\n\nTimelines\n\nWhat short-term actions (0–3 months) should be prioritized?\n(e.g., sharing workshop outputs, organizing a virtual debrief, compiling recommendations)\nWhat medium-term steps (3–6 months) can advance collaboration and modeling work?\n(e.g., forming working groups, initiating joint modeling or data-sharing efforts)\nWhat long-term goals (6–12 months) should guide regional modeling and capacity building?\n(e.g., co-developing proposals, publishing results, launching training initiatives)\nHow do we maintain momentum and track progress over time?\n\n\n\n\n\n\n\n\nCoffee break (10.30 - 11.00)\n\n\n\n\n\nSession 6: Implications of workshop outcomes (11:00 – 12:30)\n\n\n\n\n\n\n\nFinal Q&A and Outstanding Points (11:00–11:30)\n\nOpen floor for unresolved questions or clarifications\nReflections on cross-cutting topics that emerged across sessions\nOpportunity to comment on anything not yet addressed\n\nWorkshop Synthesis and Concluding Statements (11:30–12:00)\n\nSummary of key insights, priorities, and proposed recommendations\nQuick round: What resonated most or shifted your perspective this week?\nFinal reflections from organizers or facilitators\n\nReflections & Roadmap (12:00–12:30)\n\nWhat short-term steps or follow-ups can we commit to?\nAre there opportunities for joint outputs, shared protocols, or working groups?\nNext touchpoint: Would a short debrief or coordination call be useful?\n\n\nClosing remarks and appreciation\n\n\n\n\n\n\nGroup Lunch (Location: TBC) (12:30 – 14:30)",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Schedule",
+      "Day 4 – Integration and Forward Planning"
+    ]
+  },
+  {
+    "objectID": "agenda/day3.html",
+    "href": "agenda/day3.html",
+    "title": "Day 3 – Data and Models",
+    "section": "",
+    "text": "Wednesday, June 25, 2025\n\n\nFacilitator: Isaac Brito-Morales & Boris Dewitte\n\n\nSession 3: Variables of Interest for Conservation-Linked Modeling (09:00 – 10:15)\n\n\n\n\n\n\n\nFocus:: This session will open with short presentations from key ROMs users to highlight how regional ocean models are currently being applied in conservation-relevant contexts—ranging from species distribution modeling (SDMs) to digital twin frameworks and climate impact assessments. These case studies will help us evaluate how ROM outputs are being used (or could be used) to inform megafauna modeling and planning efforts.\n\nBuilding on these examples and our previous discussions on data availability, we will then turn to the key environmental and climate variables needed to model species distributions and support marine spatial planning. We will review which variables are most ecologically relevant, how to incorporate climate modes like ENSO into models, and how to represent dynamic oceanographic features such as thermal and dynamical fronts. The discussion will also help distinguish which variables are feasible to integrate now, and which may require phased inclusion as data access and modeling capacity improve.\n\nPresentations: (15 minutes max)\n\nYulia Egorova – AquaX models and Migramar working group\nIsaac Brito-Morales – Save the Blue 5: climate-change assessment\nLee Hannah – Digital twins and ROMs in conservation\nAlex Forryan / Cesar Peñaherrera – Planned applications of ROMs in upcoming Migramar efforts\n\n\n\n\n\n\n\n\nCoffee break (10.15 - 10.30)\n\n\n\n\n\n\n\n\n\nSession 3 (cont.): Variables of Interest for Conservation-Linked Modeling (10:30 – 12:30)\n\n\n\n\nReview of key variables needed for modeling megafauna distributions and informing marine spatial planning\n\nWhat are the core environmental drivers of species occurrence and movement?\nHow do different species groups (cetaceans, turtles, sharks/rays) respond to different variables?\n\nCore physical and biogeochemical variables for SDMs\n\nTemperature (surface and depth-specific), salinity, dissolved oxygen\nCurrents (direction and strength at different depths), mixed layer depth\nNutrients (nitrate, phosphate), pH, chlorophyll-a, net primary productivity\nBathymetry, slope, distance to coast, eddy kinetic energy\nOceanographic features (e.g., upwelling zones, seamounts, thermocline depth)\n\nClimate modes of variability (e.g., ENSO)\n\nHow do large-scale climate patterns influence megafauna distributions?\nOptions for representation: indices (e.g., Niño 3.4), anomalies, phase states\nHow do we integrate these into models (e.g., as covariates, temporal strata)?\n\nOcean fronts and dynamic features\n\nWhat methods or datasets are currently being used to model thermal/dynamical fronts?\nCan we incorporate front metrics (e.g., SST gradients, FSLE)?\nTemporal variability: how do fronts shift seasonally or with climate anomalies?\n\nOpen discussion: Which variables are feasible to include now vs. in future phases?\n\nBased on current data access and modeling capacity\nTrade-offs between variable resolution, frequency, and model performance\nWhat proxy variables or gap-filling strategies can be used in the interim?\nCan we build modular models that allow phased integration as data improves?\n\n\n\n\n\n\n\nLunch break (12.30 - 13.00)\n\n\n\n\n\n\n\n\n\nSession 4: Data Availability and Regional Contributions (13:00- 15:00)\n\n\n\n\nFocus:: This session will give us a clearer picture of what core datasets (physical, biogeochemical, and climate) are already in use across the region, and where key gaps or overlaps may exist. The goal is not just to inventory what’s available, but to identify opportunities for data sharing and regional alignment that can directly inform our modeling work in the following sessions.\nWhat physical, biogeochemical, and climate datasets are being used or generated?\n\nIdentify ongoing efforts and data streams relevant to regional ocean modeling and conservation.\n\nAvailability of core variables:\n\nPhysical: temperature, salinity, currents (surface and subsurface), sea level, wind speed/direction, bathymetry.\nBiogeochemical: oxygen, nutrients (nitrate, phosphate, silicate), pH, chlorophyll-a, primary productivity, carbon fluxes (DIC, POC).\nClimatology: sea surface temperature anomalies, heat content, upwelling indices, precipitation, air-sea fluxes.\n\nOpen discussion: What’s missing and what could be accessed through collaboration?\n\nAre there regional or national datasets that aren’t widely shared yet?\nCan we leverage remote sensing (e.g., Sentinel, MODIS) or global reanalyses (e.g., GLORYS, ECCO, CMEMS)?\nWhat downscaled or high-resolution products exist for key subregions?\nWhich institutions or partners could provide complementary datasets?\nAre there long-term time series we can tap into for validation or hindcasting?\n\n\n\n\n\n\n\nCoffee break & Wrap-up of Day 2 (15:00 – 15:15)\n\n\n\n\n\n\n\nSummary of key insights from the day (Isaac Brito-Morales)\nPreview of Day 4\n\n\n\n\n\n\n\n\n\n\n\n\n16:00 – 18:00: Outdoor networking activity\nDescription: An outdoor activity designed to encourage informal exchange, strengthen connections among participants, and enjoy the surroundings of the area. The proposed activity may include a guided walk or visit to a nearby point of interest. Final details will be confirmed based on logistics.\n\n\n\n\n\n\n\nGroup Dinner (Location: TBC) (18:00 – 20:00)",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Schedule",
+      "Day 3 – Data and Models"
+    ]
+  },
+  {
+    "objectID": "01_home.html#reglas-del-taller-y-confidencialidad",
+    "href": "01_home.html#reglas-del-taller-y-confidencialidad",
+    "title": "Workshop overview",
+    "section": "Reglas del taller y confidencialidad",
+    "text": "Reglas del taller y confidencialidad\nWe hope that this workshop will provide a forum for open and transparent discussion. It will operate under Chatham House rules. If you are a social media user, please respect the sensitivities of the workshop discussions and exercise discretion in what you choose to post. If you are a presenter at the workshop and do not wish people to share your content on social media, please make this clear at the start of your presentation or on individual slides.\n\n\n\n\n\n\nChatham House rules\n\n\n\n\n\n“When a meeting is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”"
+  },
+  {
+    "objectID": "01_home.html#acknowledgements",
+    "href": "01_home.html#acknowledgements",
+    "title": "Workshop overview",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThe Moore Center for Science and Solutions of Conservation International would like to thank the German Government and the IKI program for their funding, as well as the consortium partners of the Save the Blue Five project (CPPS, GIZ, and MarViva) for their support in making this workshop possible."
+  },
+  {
+    "objectID": "01_home.html#about-this-site",
+    "href": "01_home.html#about-this-site",
+    "title": "Workshop overview",
+    "section": "About this site",
+    "text": "About this site\nThis website was created using Quarto. To learn more about Quarto, visit the visit the official Quarto documentation."
+  }
+]

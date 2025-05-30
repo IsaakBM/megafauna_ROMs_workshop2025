@@ -1,0 +1,16 @@
+::: top-banner
+:::
+
+# 👥 Participants
+
+Below is the list of confirmed participants for the workshop:
+
+| **Name** | **Afiliaton** |
+|-------------------------------|-----------------------------------------|
+| <a href="https://scholar.google.com/citations?user=82f1hx0AAAAJ&hl=fr" target="_blank">Boris Dewitte</a> | CEAZA |
+| <a href="https://scholar.google.com.pe/citations?hl=en&user=pv3O6L4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Ivonne Montes</a> | Instituto Geofísico del Perú |
+| <a href="https://scholar.google.com/citations?hl=en&user=vNZ4mYoAAAAJ&view_op=list_works&sortby=pubdate">Samantha Stevenson</a> | University of California, Santa Barbara |
+| <a href="https://www.southampton.ac.uk/people/5x86qd/mr-alexander-forryan">Alexander Forryan</a> | University of Southampton |
+| <a href="https://scholar.google.ca/citations?hl=en&user=0iErUx4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Yulia Egorova</a> | University of Miami |
+| <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Conservation International & University of California, Santa Barbara |
+| <a href="https://scholar.google.com.au/citations?hl=en&view_op=list_works&gmla=AJsN-F5xl24DTIsGvaLU0eC3m1MDcho9MYiREe36Fg2N9Gi43a7GrLAl9R9cx9tlP3Ojy3Pbw3vQR5GjWGaxFt8PX-UPtBPkYpyCpTKp2huz5V-G2VpbMQ0&user=o0-V01oAAAAJ#" target="_blank">Isaac Brito-Morales</a> | Conservation International & University of California, Santa Barbara |

@@ -1,9 +1,20 @@
----
-title: "About"
----
+::: top-banner
+:::
 
-About this site
+::: {style="text-align: center; margin-top: 3rem; margin-bottom: 2rem; font-size: 3.5rem; font-weight: bold;"}
+International Workshop on Climate and Ocean Modeling
+:::
 
-```{r}
-1 + 1
+::: {style="text-align: center; font-size: 1.5rem; font-style: italic;"}
+Applications of regional ocean models for marine megafauna conservation in the Southeast Pacific
+:::
+
+::: {style="text-align: center; font-size: 2rem; font-weight: bold; margin-top: 2.5rem; margin-bottom: 1rem;"}
+```{r, out.width = "60%", echo = FALSE}
+  knitr::include_graphics("images/ci_icon.png")
 ```
+
+```{r, out.width = "60%", echo = FALSE}
+  knitr::include_graphics("images/iki_sb5.png")
+```
+:::
