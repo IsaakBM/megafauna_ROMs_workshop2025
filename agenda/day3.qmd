@@ -39,9 +39,9 @@ Building on these examples and our previous discussions on data availability, we
 
 ------------------------------------------------------------------------
 
-::: {.callout-note appearance="simple"}
 # Session 3 (cont.): Variables of Interest for Conservation-Linked Modeling (10:30 – 12:30)
 
+::: {.callout-note appearance="simple"}
 -   **Review of key variables needed for modeling megafauna distributions and informing marine spatial planning**
 
     -   What are the core environmental drivers of species occurrence and movement?
@@ -85,9 +85,9 @@ Building on these examples and our previous discussions on data availability, we
 
 ------------------------------------------------------------------------
 
-::: {.callout-note appearance="simple"}
 # Session 4: Data Availability and Regional Contributions (13:30- 15:00)
 
+::: {.callout-note appearance="simple"}
 -   **Focus:**: This session will give us a clearer picture of what core datasets (physical, biogeochemical, and climate) are already in use across the region, and where key gaps or overlaps may exist. The goal is not just to inventory what’s available, but to identify opportunities for data sharing and regional alignment that can directly inform our modeling work in the following sessions.
 
 -   **What physical, biogeochemical, and climate datasets are being used or generated?**
