@@ -17,7 +17,7 @@ This repository contains materials from the **International Workshop on Climate 
 
 ## 🌐 Workshop Website
 
-👉 [Workshop site here](https://isaakbm.github.io/megafauna_CC_workshop2025/)
+👉 [Workshop site here](https://isaakbm.github.io/megafauna_ROMs_workshop2025/)
 
 ## 📬 Contact
 
