@@ -1,0 +1,114 @@
+/* 🔶 Top accent banner */
+.top-banner {
+  background-color: #F57C00; /* Vibrant orange */
+  height: 5px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+/* 📄 Body styling */
+body {
+  padding-top: 10px;
+  font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+  background-color: #f4f7fb; /* Soft gray-blue */
+  color: #1a1a1a;
+}
+
+/* 📌 Sidebar */
+.sidebar {
+  background-color: #f7f7f7 !important; /* Light neutral */
+  border-right: 1px solid #ddd;
+}
+
+/* 📦 Sections/cards */
+section {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 1.5em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1.5em;
+}
+
+/* 🔖 Navbar title */
+.navbar-title {
+  font-weight: 600;
+  color: #EF6C00; /* Orange */
+}
+
+/* 🖱️ Navbar link hover */
+.navbar-nav .nav-link:hover {
+  background-color: #FFE0B2; /* Light orange highlight */
+  border-radius: 5px;
+  color: #EF6C00 !important;
+}
+
+/* 🧱 Title block spacing */
+.quarto-title-block {
+  margin-bottom: 2rem;
+}
+
+/* 📎 Footer */
+.page-footer {
+  font-size: 0.85rem;
+  color: #5c6e7c;
+  opacity: 0.85;
+}
+
+/* 🧼 Hide right margin TOC */
+.quarto-margin-sidebar,
+#quarto-margin {
+  display: none !important;
+}
+
+/* === 🌐 Global Color Overrides === */
+
+/* Hyperlinks */
+a {
+  color: #EF6C00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F57C00;
+  text-decoration: underline;
+}
+
+/* Sidebar active link */
+.sidebar-item.active,
+.sidebar-item.active a,
+.sidebar-item a.active {
+  background-color: #FFE0B2 !important;
+  border-left: 3px solid #EF6C00;
+  color: #EF6C00 !important;
+}
+
+/* Callouts */
+.callout-note,
+.callout-important,
+.callout-tip {
+  border-left: 4px solid #F57C00;
+}
+
+/* TOC active item */
+.nav-page-toc .nav-link.active {
+  background-color: #FFE0B2 !important;
+  color: #EF6C00 !important;
+  font-weight: 600;
+}
+
+/* Inline code styling */
+code {
+  color: #D84315;
+  background-color: #FFF3E0;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Optional: button hover (if using buttons) */
+.btn-primary:hover {
+  background-color: #F57C00;
+  border-color: #EF6C00;
+}
