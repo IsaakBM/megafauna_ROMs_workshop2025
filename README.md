@@ -4,7 +4,7 @@
 
 **Regional Applications of Ocean Models for Marine Megafauna Conservation in the Southeast Pacific**\
 **Toulouse, France \| June 23–27, 2025**\
-**Venue:** *Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique (CERFACS)*
+**Venue:** *Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique ([CERFACS](https://cerfacs.fr/en/home/))*
 
 This repository contains materials from the **International Workshop on Climate and Ocean Modeling: Regional Applications of Ocean Models for Marine Megafauna Conservation in the Southeast Pacific**, held in Toulouse, France, as part of the *Save the Blue Five* initiative.
 
