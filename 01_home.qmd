@@ -11,7 +11,7 @@ Participants will explore the state of the art in existing ROMs, focusing on the
   knitr::include_graphics("images/cover.png")
 ```
 
-## Reglas del taller y confidencialidad
+## Workshop Rules
 
 We hope that this workshop will provide a forum for open and transparent discussion. It will operate under [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule). If you are a social media user, please respect the sensitivities of the workshop discussions and exercise discretion in what you choose to post. If you are a presenter at the workshop and do not wish people to share your content on social media, please make this clear at the start of your presentation or on individual slides.
 
