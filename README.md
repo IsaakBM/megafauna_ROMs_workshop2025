@@ -6,7 +6,7 @@
 
 # 🌍 🗺️ Climate and Ocean Modeling Workshop – SB5 (2025)
 
-**Regional Applications of Ocean Models for Marine Megafauna Conservation in the Southeast Pacific**\
+**Regional Applications of Ocean Models for Marine Megafauna in the Southeast Pacific**\
 **Toulouse, France \| June 23–27, 2025**\
 **Venue:** *Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique ([CERFACS](https://cerfacs.fr/en/home/))*
 
