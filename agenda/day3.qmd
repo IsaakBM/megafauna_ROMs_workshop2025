@@ -88,7 +88,7 @@ Building on these examples and our previous discussions on data availability, we
 # Session 4: Data Availability and Regional Contributions (13:30- 15:00)
 
 ::: {.callout-note appearance="simple"}
--   **Focus:**: This session will give us a clearer picture of what core datasets (physical, biogeochemical, and climate) are already in use across the region, and where key gaps or overlaps may exist. The goal is not just to inventory what’s available, but to identify opportunities for data sharing and regional alignment that can directly inform our modeling work in the following sessions.
+-   **Focus**: This session will give us a clearer picture of what core datasets (physical, biogeochemical, and climate) are already in use across the region, and where key gaps or overlaps may exist. The goal is not just to inventory what’s available, but to identify opportunities for data sharing and regional alignment that can directly inform our modeling work in the following sessions.
 
 -   **What physical, biogeochemical, and climate datasets are being used or generated?**
 
