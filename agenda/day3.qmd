@@ -17,7 +17,7 @@ format: html
 # Session 3: Variables of Interest for Conservation-Linked Modeling (09:00 – 10:15)
 
 ::: {.callout-note appearance="simple"}
--   **Focus:**: This session will open with short presentations from key ROMs users to highlight how regional ocean models are currently being applied in conservation-relevant contexts—ranging from species distribution modeling (SDMs) to digital twin frameworks and climate impact assessments. These case studies will help us evaluate how ROM outputs are being used (or could be used) to inform megafauna modeling and planning efforts.
+**Focus**: This session will open with short presentations from key ROMs users to highlight how regional ocean models are currently being applied in conservation-relevant contexts—ranging from species distribution modeling (SDMs) to digital twin frameworks and climate impact assessments. These case studies will help us evaluate how ROM outputs are being used (or could be used) to inform megafauna modeling and planning efforts.
 
 Building on these examples and our previous discussions on data availability, we will then turn to the key environmental and climate variables needed to model species distributions and support marine spatial planning. We will review which variables are most ecologically relevant, how to incorporate climate modes like ENSO into models, and how to represent dynamic oceanographic features such as thermal and dynamical fronts. The discussion will also help distinguish which variables are feasible to integrate now, and which may require phased inclusion as data access and modeling capacity improve.
 
