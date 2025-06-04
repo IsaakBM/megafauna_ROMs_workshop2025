@@ -99,6 +99,8 @@ Building on these examples and our previous discussions on data availability, we
     -   **Physical:** temperature, salinity, currents (surface and subsurface), sea level, wind speed/direction, bathymetry.
     -   **Biogeochemical:** oxygen, nutrients (nitrate, phosphate, silicate), pH, chlorophyll-a, primary productivity, carbon fluxes (DIC, POC).
     -   **Climatology:** sea surface temperature anomalies, heat content, upwelling indices, precipitation, air-sea fluxes.
+    
+-   **Feasibility of Near Real-Time Variables for Modeling Applications:** Can we access and generate key variables (e.g., SST, chl-a, salinity, vertical velocity, EKE, DO, FSLE) at near real-time scales to support upcoming species distribution modeling efforts?
 
 -   **Open discussion:** What’s missing and what could be accessed through collaboration?
 
